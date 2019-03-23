@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">الضوء</string>
+    <string name="sport">الرياضة</string>
+    <string name="main">الرئيسية</string>
+    <string name="policy">السياسة</string>
+    <string name="open_navigation">open navigation drawer</string>
+    <string name="close_navigation">close navigation drawer</string>
+    <string name="android_image">android_image</string>
+</resources>
